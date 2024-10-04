@@ -1,4 +1,3 @@
-sklearn
 scikit-learn
 lifelines
 plotly==5.24.1
