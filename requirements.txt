@@ -1,2 +1,2 @@
-lifelines
-python 3.6+
+streamlit
+python 3.12.5
