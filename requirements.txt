@@ -1,3 +1,6 @@
 streamlit
-lifelines
 plotly
+lifelines
+pandas
+numpy
+scikit-learn
